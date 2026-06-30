@@ -97,7 +97,10 @@ Beyond retrieval, Keystone includes an automated evaluation framework built arou
 
 # Demo Video
 
-Demo video will be added.
+<video src="https://github.com/user-attachments/assets/0b9a643c-12ce-4fd4-afdf-1512c613396d"
+       controls
+       width="900">
+</video>
 
 ---
 
