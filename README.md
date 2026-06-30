@@ -125,7 +125,7 @@ Beyond retrieval, Keystone includes an automated evaluation framework built arou
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c14b5f2e-3e95-42f2-a521-14b2c2ac660a"
        alt="High Level Design"
-       width="90%">
+       width="100%">
 </p>
 
 ---
