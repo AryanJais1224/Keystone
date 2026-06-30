@@ -65,11 +65,33 @@ Beyond retrieval, Keystone includes an automated evaluation framework built arou
 
 # Application User Interface
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7ad75655-e405-4ac0-a525-5e27497b7327"
+           width="500"
+           alt="Keystone UI 1"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f4565a53-2f27-4412-bec0-056aed66b3a5"
+           width="500"
+           alt="Keystone UI 2"/>
+    </td>
+  </tr>
 
-UI screenshots will be added soon.
-
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1b7824c9-fd26-4999-81c3-bb9b0ba2e949"
+           width="500"
+           alt="Keystone UI 3"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/394022b3-7e10-48e7-89f6-00f88cafcbf7"
+           width="500"
+           alt="Keystone UI 4"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
