@@ -23,7 +23,6 @@
 - [Retrieval Pipeline](#retrieval-pipeline)
 - [Performance Benchmarks](#performance-benchmarks)
 - [Engineering Decisions](#engineering-decisions)
-- [Installation & Running the Project](#installation--running-the-project)
 - [License](#license)
 - [Author](#author)
 
@@ -123,7 +122,11 @@ Beyond retrieval, Keystone includes an automated evaluation framework built arou
 
 # System Architecture
 
-> A detailed architecture diagram illustrating document ingestion, graph construction, retrieval orchestration, semantic caching, and evaluation workflow will be added soon.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c14b5f2e-3e95-42f2-a521-14b2c2ac660a"
+       alt="High Level Design"
+       width="90%">
+</p>
 
 ---
 
@@ -219,12 +222,6 @@ The architecture of Keystone prioritizes retrieval quality, system scalability, 
 | **Why Citation Validation?** | Verifies generated source references against retrieved context to detect unsupported citations before responses are returned. |
 | **Why Event-Driven Processing?** | Keeps expensive background operations asynchronous, preventing ingestion and evaluation from blocking inference requests. |
 | **Why FastAPI?** | Provides an asynchronous API layer capable of serving concurrent inference requests with minimal overhead. |
-
----
-
-# Installation & Running the Project
-
-> ⚙️ Detailed setup instructions, Docker Compose configuration, environment variables, and deployment guide will be added soon.
 
 ---
 
